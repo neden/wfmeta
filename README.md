@@ -1,2 +1,3 @@
-# octokit_eg
-octokit_example
+# Word Flair Meta
+Wordflair Updater meta information.
+Auto updated by CRON-bot.
